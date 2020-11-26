@@ -5,7 +5,7 @@ body {
     font-family: 'Kanit', sans-serif;
     text-decoration: none;
     color: #ffffff;
-    background-color: rgb(14, 0, 65);
+    background-color: #000736;
 }
 
 .button {
@@ -22,7 +22,6 @@ body {
     transition: 0.25s;
     cursor: pointer;
     border: 2px solid #7289DA;
-    font-family: 'Montserrat';
     align-items: center;
 }
 
