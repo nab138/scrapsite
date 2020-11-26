@@ -10,7 +10,7 @@ body {
 
 .button {
     background-color: none;
-    border: #7f7ae7;
+    border: #7F7AE7;
     color: white;
     padding: 10px 25px;
     text-align: center;
@@ -33,6 +33,10 @@ body h1{
     color: #FFFFFF;
 }
 
-body h2{
+body h3{
     color: #949494;
+}
+
+body h2{
+    color: #FAFAFA;
 }
