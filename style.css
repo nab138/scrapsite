@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
-.container { 
+* {
 font-family: 'Kanit', sans-serif;
+}
+.container { 
 text-align: center 
 }
