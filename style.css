@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+html {
+    scroll-behavior: smooth;
+  }
 body {
     align-items: center;
     text-align: center;
