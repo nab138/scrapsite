@@ -3,3 +3,12 @@
 text-align: center 
   font-family: 'Kanit', sans-serif;
 }
+    input[type=submit] {
+      background-color: #11192B;
+      border: 2px;
+      color: black;
+      padding: 16px 32px;
+      text-decoration: none;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
