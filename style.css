@@ -12,10 +12,12 @@ body {
 }
 
 .button {
+    width:81px;
+    height:25px;
     background-color: #000A4F;
     border: #6E84D4;
     color: white;
-    padding: 10px 25px;
+    padding: 8px 20px;
     text-align: center;
     text-decoration: none;
     align-items: center;
