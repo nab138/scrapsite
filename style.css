@@ -6,9 +6,13 @@ text-align: center
     input[type=submit] {
       background-color: #11192B;
       border: 2px;
-      color: black;
+      color: blue;
       padding: 16px 32px;
       text-decoration: none;
       margin: 4px 2px;
       cursor: pointer;
+      font-family: 'Kanit', sans-serif;
     }
+h3 {
+    font-family: 'Kanit', sans-serif;
+}
