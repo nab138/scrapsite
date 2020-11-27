@@ -8,7 +8,7 @@ body {
     font-family: 'Kanit', sans-serif;
     text-decoration: none;
     color: #FFFFFF;
-    background-color:#FFFFFF;
+    background-color:black;
 }
 
 .button {
@@ -47,7 +47,19 @@ body h2{
     color: #FAFAFA;
 }
 .container{
+    width: 100%;
     background-image:url('media/bg.png');
     background-attachment:scroll!important;
     height:100vh;
 }
+.top{
+    position: absolute;
+    left: 46.2%;
+    top: 10%;
+    
+    margin-top: -100px;
+    margin-left: -100px;
+}
+body {
+    margin: 0;
+  }
