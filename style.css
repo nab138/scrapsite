@@ -8,9 +8,7 @@ body {
     font-family: 'Kanit', sans-serif;
     text-decoration: none;
     color: #FFFFFF;
-    background-color: #000736;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-color:#FFFFFF;
 }
 
 .button {
@@ -47,4 +45,9 @@ body h3{
 
 body h2{
     color: #FAFAFA;
+}
+.container{
+    background-image:url('media/bg.png');
+    background-attachment:scroll!important;
+    height:100vh;
 }
