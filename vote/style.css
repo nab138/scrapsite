@@ -30,10 +30,10 @@ body {
     align-items: center;
     margin: 15px;
 }
-.container {
-   display: grid;
-  align-items: center;
+.container{
+  display: flex;
   justify-content: center;
+  align-items: center;
 }
 .button:hover{
     background: #6E84D4;
