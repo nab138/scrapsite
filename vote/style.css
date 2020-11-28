@@ -30,7 +30,9 @@ body {
     margin: 15px;
 }
 .container {
-  position: relative;
+   display: grid;
+  align-items: center;
+  justify-content: center;
 }
 .button:hover{
     background: #6E84D4;
@@ -46,9 +48,4 @@ body h3{
 
 body h2{
     color: #FAFAFA;
-}
-.top {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
 }
