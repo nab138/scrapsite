@@ -31,9 +31,12 @@ body {
     margin: 15px;
 }
 .container{
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  position: relative;
+}
+.element{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
 }
 .button:hover{
     background: #6E84D4;
