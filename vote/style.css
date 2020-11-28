@@ -30,11 +30,10 @@ body {
     align-items: center;
     margin: 15px;
 }
-.top {
-  margin: auto;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .button:hover{
     background: #6E84D4;
