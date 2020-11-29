@@ -8,6 +8,7 @@ body {
     font-family: 'Kanit', sans-serif;
     text-decoration: none;
     color: #FFFFFF;
+    background-color: #00073B
 }
 
 .button {
@@ -44,12 +45,6 @@ body h3{
 
 body h2{
     color: #FAFAFA;
-}
-.top{
- background-color: #00073B
-}
-.bottom{
- background-color: #000000
 }
 
 body {
