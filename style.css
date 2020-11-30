@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 html {
     scroll-behavior: smooth;
   }
 body {
     align-items: center;
     text-align: center;
-    font-family: 'Kanit', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     text-decoration: none;
     color: #FFFFFF;
     background-color: #ed8c0c
